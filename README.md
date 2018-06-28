@@ -1,1 +1,1 @@
-# HTML
+# This repositary consists of HTML codes
