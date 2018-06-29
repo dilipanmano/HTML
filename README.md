@@ -1,1 +1,2 @@
-# This repositary consists of HTML codes
+#  HTML 
+  This Repositary consits of HTML codes which are practiced in LAB
